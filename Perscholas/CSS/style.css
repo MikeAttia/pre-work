@@ -1,0 +1,67 @@
+<style type="text/css">
+body{
+    background-color: azure;
+  
+}
+a{
+    text-decoration-color: #d62728;
+}
+h2{text-decoration: underline;
+
+}
+p{
+    font-size: 2em;
+    }
+ li{font-style: italic;
+} 
+.activ1{font-size: small;
+font-style: oblique;
+color:#d62728;
+}
+#Bonj{
+    font-style: inherit;
+    color: #d62728;
+}
+#div1{
+    background-color:#1f78b4 ;
+    border-style: groove;
+   
+    
+}
+#div2{
+    background-color:#4b7d95;
+    border-style: groove;
+    position: relative;
+    display: inline;
+}
+#div3{
+    background-color: #98bfb5;
+    border-style: groove;
+    position: relative;
+    display: inline;
+}
+#div4{
+    background-color: cornsilk;
+    border-style: groove;
+    position: relative;
+}
+#div5{
+    background-image: repeating-linear-gradient(#cfecf9,#faebd7,#ff6868,#dad4c2);
+    border-style: groove;
+}
+#f1{
+    padding: 15px;
+    background-color: mintcream;
+    font-style: italic;
+    font-weight: 900 px;
+}
+input[type=button]{
+    color: black;
+    background-color: cornsilk;
+    padding: 5px;
+}
+img{
+    float:right;
+}
+
+</style>
